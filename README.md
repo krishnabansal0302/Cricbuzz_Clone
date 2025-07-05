@@ -21,17 +21,18 @@ A clean, responsive cricket profile and match center web app built using **HTML*
 
 Cricbuzz_Clone/
 │
-├── index.html # Main HTML page
-├── project.css # All styles (responsive + themed)
-├── project.js # All logic: rendering, filtering, interaction
-├── cricket-circle-logo.png # Custom logo for branding
-└── README.md # This file!
+├── index.html # Main HTML page <br>
+├── project.css # All styles (responsive + themed) <br>
+├── project.js # All logic: rendering, filtering, interaction <br>
+├── cricket-circle-logo.png # Custom logo for branding <br>
+└── README.md # This file! <br>
 
 🤝 Contributing
 Pull requests are welcome! If you find a bug or have a suggestion, feel free to open an issue or PR.
 
-**🧑‍💻 Author**
+**🧑‍💻 Author** <br>
 **Krishna Bansal**
+
 
 📧 krishnabansal123my@gmail.com
 ## 🔗 Live Preview
