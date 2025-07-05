@@ -19,7 +19,7 @@ A clean, responsive cricket profile and match center web app built using **HTML*
 
 ## 📁 Project Structure
 
-Cricbuzz_Clone/
+Cricbuzz_Clone/<br>
 │
 ├── index.html # Main HTML page <br>
 ├── project.css # All styles (responsive + themed) <br>
@@ -35,10 +35,6 @@ Pull requests are welcome! If you find a bug or have a suggestion, feel free to 
 
 
 📧 krishnabansal123my@gmail.com
-## 🔗 Live Preview
-
-You can try it here:  
-👉 [https://krishnabansal0302.github.io/Cricbuzz_Clone/](https://krishnabansal0302.github.io/Cricbuzz_Clone/)
 
 
 
