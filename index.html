@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricketer Profiles</title>
+    <link rel="stylesheet" href="project.css">
+</head>
+
+<body>
+  <header class="header" role="banner">
+    <h1><span class="logo">Cric</span><span class="buzz">buzz</span></h1>
+    <nav class="nav" role="navigation" aria-label="Main navigation">
+      <a href="#">LIVE</a>
+      <a href="#">STATS</a>
+     <div class="search-wrapper">
+  <input type="text" id="search-input" placeholder="Search player..." class="search-bar" aria-label="Search players">
+  <button id="clear-search" class="clear-button" aria-label="Clear search">&times;</button>
+</div>
+
+    </nav>
+  </header>
+
+  <main role="main">
+    <section aria-label="Upcoming Matches">
+      <div id="matches-container" class="matches-container"></div>
+    </section>
+
+    <section aria-label="Player Profiles">
+      
+      <div id="player-container" class="player-container"></div>
+    </section>
+  </main>
+  <script src="project.js"></script>
+</body>
+
+</html>
