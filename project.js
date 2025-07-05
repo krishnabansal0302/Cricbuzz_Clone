@@ -45,6 +45,46 @@ const players = [
     image: "https://preview.redd.it/what-are-your-thoughts-on-rishabh-pant-these-days-v0-aye699bbhxye1.jpeg?auto=webp&s=5cd3f2daf4105775968cefa0437657dc7e1f411f",
     profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
   },
+  {
+    name: "Jos Buttler",
+    image: "https://www.livemint.com/lm-img/img/2025/01/22/original/Jos_Buttler_1737544911140.jpg",
+    profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
+  },
+  {
+    name: "Steve Smith",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTm7uK6LFt5fZoUZA2CrJNa9W6wvKm6l7g0w&s",
+    profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
+  },
+  {
+    name: "Mitchel Starc",
+    image: "https://e0.365dm.com/15/08/2048x1152/Mitchell-Starc-Australia-2015_3344051.jpg?20150830130102",
+    profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
+  },
+  {
+    name: "Pat Cummins",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZii_O2C6AOpfFaHJql97rLKXxxD4N3x-kw&s",
+    profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
+  },
+  {
+    name: "Ben Stokes",
+    image: "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-43960,resizemode-75,msid-92957982/news/sports/england-all-rounder-ben-stokes-announces-retirement-from-odi-cricket.jpg",
+    profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
+  },
+  {
+    name: "Tristan Stubbs",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvk2QO1pk2ncmyPQn-qY-tHrai5HHugLQ3xw&s",
+    profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
+  },
+  {
+    name: "Kigaso Rabada",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfUqf5iGceWKxwyDtIzTeUyQaAqvGkDOXpQ&s",
+    profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
+  },
+  {
+    name: "Ravindra Jadeja",
+    image: "https://c.ndtvimg.com/2025-03/7ep9fsuo_ravindra-jadeja_625x300_03_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+    profile: "https://www.espncricinfo.com/player/rishabh-pant-931581",
+  },
 ];
 
 const matches = [
